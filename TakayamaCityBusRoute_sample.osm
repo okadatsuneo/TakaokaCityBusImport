@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8336242889' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7280244' lon='136.9578677'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-40_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='立野' />
+    <tag k='name:en' v='Tateno' />
+    <tag k='name:ja' v='立野' />
+    <tag k='name:ja-Hira' v='たての' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242890' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7132771' lon='136.9312782'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-39_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡小学校' />
+    <tag k='name:en' v='Fukuoka Shogakko(Fukuoka Elementary School)' />
+    <tag k='name:ja' v='福岡小学校' />
+    <tag k='name:ja-Hira' v='ふくおかしょうがっこう' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242891' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7166471' lon='136.9338673'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-38_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西干場住宅前' />
+    <tag k='name:en' v='Nishihoshiba Jutaku Mae(Nishihoshiba City House)' />
+    <tag k='name:ja' v='西干場住宅前' />
+    <tag k='name:ja-Hira' v='にしほしばじゅうたくまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242892' timestamp='2022-01-26T05:59:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='2' changeset='116609853' lat='36.718724' lon='136.935702'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-37_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='サンバリー福岡病院前' />
+    <tag k='name:en' v='Sunvery Fukuoka Byoin mae(Sunvery Fukuoka hospital)' />
+    <tag k='name:ja' v='サンバリー福岡病院前' />
+    <tag k='name:ja-Hira' v='さんばりーふくおかびょういんまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242893' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7170255' lon='136.937955'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-36_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='光風苑前' />
+    <tag k='name:en' v='Kofuen Mae' />
+    <tag k='name:ja' v='光風苑前' />
+    <tag k='name:ja-Hira' v='こうふうえんまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242894' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7152155' lon='136.9404666'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-35_03' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野口' />
+    <tag k='name:en' v='Ono Guchi' />
+    <tag k='name:ja' v='大野口' />
+    <tag k='name:ja-Hira' v='おおのぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242895' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7146355' lon='136.9404152'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-35_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野口' />
+    <tag k='name:en' v='Ono Guchi' />
+    <tag k='name:ja' v='大野口' />
+    <tag k='name:ja-Hira' v='おおのぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242896' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7144755' lon='136.9404495'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-35_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='大野口' />
+    <tag k='name:en' v='Ono Guchi' />
+    <tag k='name:ja' v='大野口' />
+    <tag k='name:ja-Hira' v='おおのぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242897' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7121913' lon='136.9361698'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-34_04' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='農協給油所前' />
+    <tag k='name:en' v='Nokyo Kyuyujo Mae(Nokyo Gas Station)' />
+    <tag k='name:ja' v='農協給油所前' />
+    <tag k='name:ja-Hira' v='のうきょうきゅうゆじょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242898' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7123167' lon='136.9361165'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-34_03' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='農協給油所前' />
+    <tag k='name:en' v='Nokyo Kyuyujo Mae(Nokyo Gas Station)' />
+    <tag k='name:ja' v='農協給油所前' />
+    <tag k='name:ja-Hira' v='のうきょうきゅうゆじょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242899' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7124917' lon='136.9373108'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-34_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='農協給油所前' />
+    <tag k='name:en' v='Nokyo Kyuyujo Mae(Nokyo Gas Station)' />
+    <tag k='name:ja' v='農協給油所前' />
+    <tag k='name:ja-Hira' v='のうきょうきゅうゆじょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242900' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.712508' lon='136.9376231'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-34_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='農協給油所前' />
+    <tag k='name:en' v='Nokyo Kyuyujo Mae(Nokyo Gas Station)' />
+    <tag k='name:ja' v='農協給油所前' />
+    <tag k='name:ja-Hira' v='のうきょうきゅうゆじょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242901' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7106655' lon='136.9340318'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-33_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡元町' />
+    <tag k='name:en' v='Fukuoka Motomachi' />
+    <tag k='name:ja' v='福岡元町' />
+    <tag k='name:ja-Hira' v='ふくおかもとまち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242902' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7100805' lon='136.9329232'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-33_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡元町' />
+    <tag k='name:en' v='Fukuoka Motomachi' />
+    <tag k='name:ja' v='福岡元町' />
+    <tag k='name:ja-Hira' v='ふくおかもとまち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242903' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7097593' lon='136.9315229'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-32_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡駅前' />
+    <tag k='name:en' v='Fukuoka Sta. mae' />
+    <tag k='name:ja' v='福岡駅前' />
+    <tag k='name:ja-Hira' v='ふくおかえきまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242904' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7097193' lon='136.9318771'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-32_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡駅前' />
+    <tag k='name:en' v='Fukuoka Sta. mae' />
+    <tag k='name:ja' v='福岡駅前' />
+    <tag k='name:ja-Hira' v='ふくおかえきまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242905' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7077886' lon='136.9272055'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-31_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡橋詰' />
+    <tag k='name:en' v='Fukuoka Hashizume' />
+    <tag k='name:ja' v='福岡橋詰' />
+    <tag k='name:ja-Hira' v='ふくおかはしづめ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242906' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7076636' lon='136.9273388'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-31_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡橋詰' />
+    <tag k='name:en' v='Fukuoka Hashizume' />
+    <tag k='name:ja' v='福岡橋詰' />
+    <tag k='name:ja-Hira' v='ふくおかはしづめ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242907' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7072034' lon='136.9250858'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-30_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='Uホール前' />
+    <tag k='name:en' v='U-hall Mae' />
+    <tag k='name:ja' v='Uホール前' />
+    <tag k='name:ja-Hira' v='ゆーほーるまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242908' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7088204' lon='136.9273978'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-29_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ふれあいセンター前' />
+    <tag k='name:en' v='Fureai Center Mae' />
+    <tag k='name:ja' v='ふれあいセンター前' />
+    <tag k='name:ja-Hira' v='ふれあいせんたーまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242909' timestamp='2022-01-26T05:59:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='2' changeset='116609853' lat='36.7083474' lon='136.923337'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-28_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡支所前' />
+    <tag k='name:en' v='Fukuoka Shisyo Mae(Fukuoka Branch)' />
+    <tag k='name:ja' v='福岡支所前' />
+    <tag k='name:ja-Hira' v='ふくおかししょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242910' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7061971' lon='136.9199038'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-27_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='荒屋敷' />
+    <tag k='name:en' v='Arayashiki' />
+    <tag k='name:ja' v='荒屋敷' />
+    <tag k='name:ja-Hira' v='あらやしき' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242911' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7068981' lon='136.9168246'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-26_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='中学校前' />
+    <tag k='name:en' v='Chugakko Mae(Fukuoka Junior High School)' />
+    <tag k='name:ja' v='中学校前' />
+    <tag k='name:ja-Hira' v='ちゅうがっこうまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242912' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7014231' lon='136.8970782'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-25_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上野' />
+    <tag k='name:en' v='Uwano' />
+    <tag k='name:ja' v='上野' />
+    <tag k='name:ja-Hira' v='うわの' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242913' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7009328' lon='136.8944113'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-24_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上野西' />
+    <tag k='name:en' v='Uwano-Nishi' />
+    <tag k='name:ja' v='上野西' />
+    <tag k='name:ja-Hira' v='うわのにし' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242914' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7109338' lon='136.9100338'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-23_02' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上向田' />
+    <tag k='name:en' v='Kamimukuta' />
+    <tag k='name:ja' v='上向田' />
+    <tag k='name:ja-Hira' v='かみむくた' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242915' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7106955' lon='136.9098777'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-23_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上向田' />
+    <tag k='name:en' v='Kamimukuta' />
+    <tag k='name:ja' v='上向田' />
+    <tag k='name:ja-Hira' v='かみむくた' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336242916' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7125662' lon='136.9138044'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-22_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='表島' />
+    <tag k='name:en' v='Omotejima' />
+    <tag k='name:ja' v='表島' />
+    <tag k='name:ja-Hira' v='おもてじま' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284617' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7136025' lon='136.9099635'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-21_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='下向田口' />
+    <tag k='name:en' v='Shimomukuta Guchi' />
+    <tag k='name:ja' v='下向田口' />
+    <tag k='name:ja-Hira' v='しもむくたぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284618' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.712721' lon='136.9069326'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-20_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='上向田口' />
+    <tag k='name:en' v='Kamimukuta Guchi' />
+    <tag k='name:ja' v='上向田口' />
+    <tag k='name:ja-Hira' v='かみむくたぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284619' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7134649' lon='136.9057095'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-19_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='福岡公園前' />
+    <tag k='name:en' v='Fukuoka Koen Mae(Fukuoka Park)' />
+    <tag k='name:ja' v='福岡公園前' />
+    <tag k='name:ja-Hira' v='ふくおかこうえんまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284620' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7153656' lon='136.9033813'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-18_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西明寺' />
+    <tag k='name:en' v='Saimyoji' />
+    <tag k='name:ja' v='西明寺' />
+    <tag k='name:ja-Hira' v='さいみょうじ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284621' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7189922' lon='136.9035191'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-17_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西明寺パークゴルフ場南口' />
+    <tag k='name:en' v='Saimyoji Parkgolf Jo-Minamiguchi' />
+    <tag k='name:ja' v='西明寺パークゴルフ場南口' />
+    <tag k='name:ja-Hira' v='さいみょうじぱーくごるふじょうみなみぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284622' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7290132' lon='136.8977809'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-16_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='栃丘集会所前' />
+    <tag k='name:en' v='Tochioka Shukaijo Mae' />
+    <tag k='name:ja' v='栃丘集会所前' />
+    <tag k='name:ja-Hira' v='とちおかしゅうかいじょまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284623' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7328569' lon='136.8984944'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-15_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='栃丘' />
+    <tag k='name:en' v='Tochioka' />
+    <tag k='name:ja' v='栃丘' />
+    <tag k='name:ja-Hira' v='とちおか' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284624' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7357288' lon='136.8945936'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-14_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='栃丘北部' />
+    <tag k='name:en' v='Tochioka-Hokubu' />
+    <tag k='name:ja' v='栃丘北部' />
+    <tag k='name:ja-Hira' v='とちおかほくぶ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284625' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.72152' lon='136.901613'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-13_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='西明寺パークゴルフ場前' />
+    <tag k='name:en' v='Saimyoji Parkgolf Jo Mae' />
+    <tag k='name:ja' v='西明寺パークゴルフ場前' />
+    <tag k='name:ja-Hira' v='さいみょうじぱーくごるふじょうまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284626' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7232686' lon='136.8875065'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-12_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小野トンネル' />
+    <tag k='name:en' v='Kono Tunnel' />
+    <tag k='name:ja' v='小野トンネル' />
+    <tag k='name:ja-Hira' v='このとんねる' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284627' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7328032' lon='136.8753721'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-11_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='小野' />
+    <tag k='name:en' v='Kono' />
+    <tag k='name:ja' v='小野' />
+    <tag k='name:ja-Hira' v='この' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284628' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7420015' lon='136.8738605'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-10_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五位山交流館前' />
+    <tag k='name:en' v='Goiyama Koryukan Mae' />
+    <tag k='name:ja' v='五位山交流館前' />
+    <tag k='name:ja-Hira' v='ごいやまこうりゅうかんまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284629' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7472325' lon='136.8762241'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-9_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='棚原' />
+    <tag k='name:en' v='Tanahara' />
+    <tag k='name:ja' v='棚原' />
+    <tag k='name:ja-Hira' v='たなはら' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284630' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7483656' lon='136.881241'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-8_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五位' />
+    <tag k='name:en' v='Goi' />
+    <tag k='name:ja' v='五位' />
+    <tag k='name:ja-Hira' v='ごい' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284631' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7608569' lon='136.8798959'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-7_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='山ぼうし前' />
+    <tag k='name:en' v='Yamaboshi Mae' />
+    <tag k='name:ja' v='山ぼうし前' />
+    <tag k='name:ja-Hira' v='やまぼうしまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284632' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7610546' lon='136.8777502'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-6_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='ピクニカル広場' />
+    <tag k='name:en' v='Picnicalhiroba(Picnic Areas)' />
+    <tag k='name:ja' v='ピクニカル広場' />
+    <tag k='name:ja-Hira' v='ぴくにかるひろば' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284633' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7588627' lon='136.8752557'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-5_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='五位キャンプ場' />
+    <tag k='name:en' v='Goi Camp Jo(Goi Campsite)' />
+    <tag k='name:ja' v='五位キャンプ場' />
+    <tag k='name:ja-Hira' v='ごいきゃんぷじょう' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284634' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7574702' lon='136.8761408'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-4_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='家族旅行村口' />
+    <tag k='name:en' v='Kazokuryokomura Guchi' />
+    <tag k='name:ja' v='家族旅行村口' />
+    <tag k='name:ja-Hira' v='かぞくりょこうむらぐち' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284635' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7715444' lon='136.855343'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-3_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='向出' />
+    <tag k='name:en' v='Mukaide' />
+    <tag k='name:ja' v='向出' />
+    <tag k='name:ja-Hira' v='むかいで' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284636' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.773521' lon='136.8552142'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-2_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沢川農協前' />
+    <tag k='name:en' v='Sogo Nokyo Mae' />
+    <tag k='name:ja' v='沢川農協前' />
+    <tag k='name:ja-Hira' v='そうごうのうきょうまえ' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+  <node id='8336284637' timestamp='2021-01-19T00:41:16Z' uid='12352917' user='okadatsuneo_import' visible='true' version='1' changeset='97726708' lat='36.7749691' lon='136.8551016'>
+    <tag k='bus' v='yes' />
+    <tag k='gtfs:stop_id' v='f-1_01' />
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='沢川' />
+    <tag k='name:en' v='Sogo' />
+    <tag k='name:ja' v='沢川' />
+    <tag k='name:ja-Hira' v='そうごう' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport' v='platform' />
+  </node>
+   <relation id='-99757' action='modify' visible='true'>
+    <member type='node' ref='8336284637' role='platform' />
+    <member type='node' ref='8336284636' role='platform' />
+    <member type='node' ref='8336284635' role='platform' />
+    <member type='node' ref='8336284634' role='platform' />
+    <member type='node' ref='8336284633' role='platform' />
+    <member type='node' ref='8336284632' role='platform' />
+    <member type='node' ref='8336284631' role='platform' />
+    <member type='node' ref='8336284630' role='platform' />
+    <member type='node' ref='8336284629' role='platform' />
+    <member type='node' ref='8336284628' role='platform' />
+    <member type='node' ref='8336284627' role='platform' />
+    <member type='node' ref='8336284624' role='platform' />
+    <member type='node' ref='8336284623' role='platform' />
+    <member type='node' ref='8336284622' role='platform' />
+    <member type='node' ref='8336284621' role='platform' />
+    <member type='node' ref='8336284620' role='platform' />
+    <member type='node' ref='8336284619' role='platform' />
+    <member type='node' ref='8336284618' role='platform' />
+    <member type='node' ref='8336284617' role='platform' />
+    <member type='node' ref='8336242916' role='platform' />
+    <member type='node' ref='8336242915' role='platform' />
+    <member type='node' ref='8336242911' role='platform' />
+    <member type='node' ref='8336242910' role='platform' />
+    <member type='node' ref='8336242909' role='platform' />
+    <member type='node' ref='8336242908' role='platform' />
+    <member type='node' ref='8336242907' role='platform' />
+    <member type='node' ref='8336242905' role='platform' />
+    <member type='node' ref='8336242903' role='platform' />
+    <member type='node' ref='8336242901' role='platform' />
+    <member type='node' ref='8336242899' role='platform' />
+    <member type='node' ref='8336242895' role='platform' />
+    <member type='node' ref='8336242893' role='platform' />
+    <member type='node' ref='8336242892' role='platform' />
+    <member type='node' ref='8336242891' role='platform' />
+    <member type='node' ref='8336242890' role='platform' />
+    <tag k='charge' v='100 JPY' />
+    <tag k='colour' v='80FF80' />
+    <tag k='duration' v='01:04:00' />
+    <tag k='fee' v='yes' />
+    <tag k='from' v='沢川' />
+    <tag k='gtfs:route_id' v='五位山線　福岡小学校行（栃丘・大野口経由）(05_09_04)' />
+    <tag k='name' v='Bus: 沢川-&gt;栃丘-&gt;大野口-&gt;福岡小学校' />
+    <tag k='official_name' v='五位山線' />
+    <tag k='opening_hours' v='17:00-18:04' />
+    <tag k='operator' v='高岡市公営バス' />
+    <tag k='operator:en' v='Takaoka Municipal bus' />
+    <tag k='public_transport:version' v='2' />
+    <tag k='route' v='bus' />
+    <tag k='to' v='福岡小学校' />
+    <tag k='type' v='route' />
+    <tag k='via' v='栃丘; 大野口' />
+  </relation>
+</osm>
